@@ -2811,7 +2811,7 @@ input, select, textarea {
 			}
 
 			.tiles article:hover:before {
-				opacity: 1;
+				opacity: 12.0;
 			}
 
 			.tiles article.is-transitioning {
